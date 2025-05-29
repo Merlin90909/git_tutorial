@@ -1,5 +1,5 @@
-public class aenderung {
+public class Änderung {
     public static void main(String[] args){
-        System.out.println("Hall0 Welt, wie gehts heute?");
+        System.out.println("Hallo Welt!");
     }
 }
